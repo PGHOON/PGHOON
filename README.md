@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pghoon)](https://solved.ac/pghoon/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pghoon)](https://solved.ac/pghoon/)-->
 
 <!--
 **PGHOON/PGHOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
