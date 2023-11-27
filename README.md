@@ -23,5 +23,6 @@ STAT
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"></a></p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"></a></p>
