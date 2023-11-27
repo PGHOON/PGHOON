@@ -8,9 +8,9 @@ STAT
 -->
 
 <p>Operating Systems<br>
-<img src="https://img.shields.io/badge/macOS(m2)-525252?style=flat&logo=macos&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows11&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/></p>
+<img src="https://img.shields.io/badge/macOS(ARM64)-525252?style=flat&logo=macos&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows(AMD64)-0078D6?style=flat&logo=windows11&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu(AMD64)-E95420?style=flat&logo=ubuntu&logoColor=white"/></p>
 <p>Learned<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"></a>
