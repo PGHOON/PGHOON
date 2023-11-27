@@ -17,7 +17,7 @@ STAT
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
-<img src="https://img.shields.io/badge/LaTeX-008080-?style=flat&logo=LaTex&logoColor=white"></a>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white"></a>
 <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
