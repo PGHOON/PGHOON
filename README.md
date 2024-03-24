@@ -8,7 +8,6 @@ STAT
 -->
 <p>Academic Background<br>
 Kwangwoon University             B.S. ~Fall 2024
-  
 University of California, Irvine M.S. Fall 2024~
 
 <p>Operating Systems<br>
