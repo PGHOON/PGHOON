@@ -7,8 +7,10 @@ STAT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PGHOON&show_icons=true&theme=radical)
 -->
 <p>Academic Background<br>
+Kwangwoon University             B.S. ~Fall 2024
+  
 University of California, Irvine M.S. Fall 2024~
-Kwangwoon University B.S. ~Fall 2024
+
 <p>Operating Systems<br>
 <img src="https://img.shields.io/badge/macOS(ARM64)-525252?style=flat&logo=macos&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows(AMD64)-0078D6?style=flat&logo=windows11&logoColor=white"/></a>
