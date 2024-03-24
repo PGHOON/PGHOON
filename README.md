@@ -7,7 +7,7 @@ STAT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PGHOON&show_icons=true&theme=radical)
 -->
 <p>Academic Background<br>
-Kwangwoon University             B.S. ~Fall 2024
+Kwangwoon University             B.S. ~Fall 2024</br>
 University of California, Irvine M.S. Fall 2024~
 
 <p>Operating Systems<br>
