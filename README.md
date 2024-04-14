@@ -19,7 +19,7 @@ University of California, Irvine M.S. Fall 2024~
 <p>Learned<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"></a>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c-sharp&logoColor=white"></a>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
