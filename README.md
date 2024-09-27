@@ -9,10 +9,10 @@ STAT
 
 
 Academic Background<br>
-| Institution                          | Degree   | Major                                              | Date                    |
-|--------------------------------------|----------|----------------------------------------------------|-------------------------|
-| University of California, Irvine     | M.S.     | Computer Systems Networking and Telecommunications | Sep 2024 - Jun 2026     |
-| Kwangwoon University                 | B.S.     | Computer Science and Engineering                   | Mar 2019 - Aug 2024     |
+| Institution                          | Degree   | Major                            | Date                    |
+|--------------------------------------|----------|----------------------------------|-------------------------|
+| University of California, Irvine     | M.S.     | Networked Systems                | Sep 2024 - Jun 2026     |
+| Kwangwoon University                 | B.S.     | Computer Science and Engineering | Mar 2019 - Aug 2024     |
 
 <!--
 Leetcode Stats<br>
