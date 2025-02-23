@@ -14,7 +14,7 @@ Academic Background<br>
 | University of California, Irvine     | M.S.     | Networked Systems                | Sep 2024 - Jun 2026     |
 | Kwangwoon University                 | B.S.     | Computer Science and Engineering | Mar 2019 - Aug 2024     |
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/PGHOON?theme=nord)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/PGHOON?theme=nord)-->
 
 <!--
 <p>Operating Systems<br>
